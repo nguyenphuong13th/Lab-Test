@@ -1,2 +1,3 @@
 Hello world
 move to new branch
+merge with master branch
